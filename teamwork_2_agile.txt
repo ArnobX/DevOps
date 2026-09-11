@@ -1,0 +1,84 @@
+Arnob Bhattacharjee, e2401827
+Nasrin Priya, e2404244
+Lizhe Huang, e2401837
+
+
+
+
+1. Agile software development is a group of software development methodologies based on iterative and incremental development, where requirements and solutions evolve through collaboration between self-organizing, cross-functional teams.
+Agile was developed to solve problems in traditional software development, especially the waterfall model, where requirements are defined at the beginning and development follows a fixed plan.
+Main problems that Agile addresses:
+	i) changing requirements 
+	ii) Late feedback
+	iii) High risk
+	iv) Long development cycles
+	v) Customer dissatisfaction
+
+
+2. Four core values of the Agile Manifesto are
+	i) Individuals and Interaction over Processes and Tools: Good communication and teamwork are more important than following the tools. Example: Developers discuss a problem with each other instead of communicating through project management tools.
+
+	ii) Working software over comprehensive documentation: Developers should focus on building a software that actually works instead of spending too  much time in creating documentation.
+ 
+	iii) Customer collaboration over contract negotiation: Developers should work closely with the customer and use their feedbacks throughout the whole project. Example: A customer tests a new feature and suggest changes, and developers will include those changes in the next development phase.
+
+	iv) Responding to change over following a plan: A team should be flexible and change their plan when new requirements occur. Example: The customer wants a different method halfway through, developers should adjust the changes.
+
+
+3. Customer satisfaction by rapid delivery of useful software: This is important because customers can start using useful features early and provide feedback before the whole project is finished.
+
+Welcome changing requirements, even late in development
+Requirements can change as the customer learns more about what they need. Agile allows the team to adapt instead of being stuck with the original plan.
+
+Working software is delivered frequently (weeks rather than months): Frequent releases help the team find problems earlier and allow the customer to see the actual progress of the project.
+
+Regular adaptation to changing circumstances: Teams should regularly discuss what went well and what went wrong. This helps them improve their development process over time.
+
+
+4. RUP and Agile both use iterative development and feedback. RUP has more detailed planning and documentation, while Agile is more flexible and focuses on working software. RUP usually has less customer involvement and more formal requirements, while Agile involves customers more closely and allows requirements to change easily.
+
+
+5.The Spiral model focuses heavily on identifying and reducing risks through repeated cycles. Agile also uses iterations, but focuses more on adapting to changes and delivering working software frequently. Both allow changes and use customer feedback, but Agile usually involves customers more continuously.
+
+
+6. We would suggest Agile since the requirements of the project keeps changing. Agile will allow the development team to adjust with the changes of the requirements. 
+
+
+7. Scrum focuses on short sprints, teamwork, and regular feedback. XP focuses on high-quality code, testing, pair programming, and frequent releases. FDD focuses on designing and developing small, specific features.
+I would choose Scrum for general projects, XP when code quality is very important, and FDD for large projects with many clearly defined features.
+
+
+8. Scrum's main advantages are flexibility, frequent feedback, teamwork, and regular delivery of working software. Its disadvantages are many meetings, the need for active teamwork, and difficulty with constantly changing priorities. Scrum works well for projects with changing requirements and active customer involvement, but may not be suitable for projects with fixed requirements, strict deadlines, or teams that cannot communicate regularly.
+
+
+9. The Product Owner manages the product requirements and decides what should be developed. The Scrum Master helps the team follow Scrum and removes obstacles. 
+The Developers design, build, and test the software. They work together through regular communication to deliver a useful product.
+
+
+10. Scrum artifacts are the Product Backlog, Sprint Backlog, and Increment. The Product Backlog lists all required work, the Sprint Backlog contains the work selected for the current Sprint, and the Increment is the completed working product.
+
+Scrum events include the Sprint, which is the development period; Daily Scrum, where the team checks progress; Sprint Review, where the result is shown and feedback is collected; and Sprint Retrospective, where the team discusses how to improve
+
+
+11. Sprint Goal: Develop the basic login and user registration features.
+Product Backlog Items: User registration, login, password reset, and logout.
+Sprint Activities: Sprint Planning, coding, testing, Daily Scrum meetings, and Sprint Review.
+Expected Increment: A working mobile app where users can register, log in, reset their password, and log out.
+
+
+12.XP mainly involves developers, customers, and a coach/team leader. Its main practices include pair programming, test-driven development (TDD), continuous integration, and refactoring. Pair programming improves code quality through teamwork, TDD finds errors early, continuous integration detects integration problems quickly, and refactoring keeps the code clean and maintainable.
+
+
+13. Advantages: XP provides high code quality, frequent testing, quick feedback, and flexibility.
+
+Disadvantages: XP requires strong teamwork, frequent communication, and practices like pair programming can take more time.
+
+Compared with Scrum: XP focuses more on technical practices and code quality, while Scrum focuses more on project management and organization. XP is best for projects with frequent changes and high-quality requirements.
+
+
+14. Feature-Driven Development (FDD) is an Agile method that organizes development around small, client-valued features.
+
+Its main features are short iterations, feature-based planning, regular progress tracking, and frequent delivery. The project is divided into small features, and developers design, build, and test each feature separately before moving to the next one.
+
+
+15. I would choose a combination of Scrum and XP. Scrum would help the team manage the project with short sprints, regular meetings, and customer feedback. XP would help us maintain good code quality through testing, pair programming, and continuous integration. In each sprint, we would develop and test a few features, show the working software to the customer, and use their feedback to decide what to work on next.
