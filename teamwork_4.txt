@@ -1,0 +1,64 @@
+Arnob Bhattacharjee, e2401827
+Lizhe Huang, e2401837
+
+
+
+1. Responsibilities of the customer:
+	i) He should clearly explain the business problem and goals.
+	ii) He should mention important features and requirements.
+	iii) He should describe what they need from the system.
+   Responsibilities of the software engineer:
+	i) A software engineer should ask questions the customer to understand the customer's need
+	ii) He should clearly analyze the requirements.
+	iii) He should also check if the requirements are realistic.
+	iv) He should suggest different model or prototypes to the customer to choose from.
+
+2. Communication can be difficult because customers and developers may user different terminology and they might have difference between technical knowledge. Some of the common causes of misunderstanding are: unclear language or requirements, use of different terminology for the same requirements, customers don't know what they truly want, customers fail to make the developer understand what they want or developers fail to understand the customer's requirements.
+
+3. Requirements analysis focuses on what the system should do rather than how it should be implemented because it helps the team to understand the customer's actual needs without being restricted by the terminologies. It also makes it easier to compare different technical solutions later.
+
+4. List of questions that could help a team to understand the customer's real problem:
+	i) What problem the customer is currently experiencing?
+	ii) Who is affected by the problem?
+	iii) How often does the problem occurs?
+	iv) What would the customer like to improve?
+
+5. Interviews are simple to organize, easy to control and good for collecting individual opinions. These are the strengths of interviews.
+FAST encourages discussions, different stakeholders can correct different misunderstandings, it also helps to discover missing requirements. These are the requirements of FAST.
+
+6. A FAST meeting could include customer representatives, end users, software engineers, project manager, requirement analyst. 
+Rules of a FAST meeting:
+	i) Everyone should have the chance to speak.
+	ii) Focus on requirements rather than technical implementation.
+	iii)Avoid interrupting others.
+	iv) Discuss disagreements instead of ignoring them.
+
+7. A mini specification can include: name of the function, purpose, inputs, outputs, error conditions, processing or required behavior, business rules etc.
+
+8. QFD divides requirements into normal, expected and exciting requirements.
+
+Normal requirements:
+Examples for an online shopping system: users can search for products, users can add products to a shopping cart, users can place orders.
+
+Expected requirements:
+Users passwords should be protected, the website should not lose an order during checkout, the system should respond quickly.
+
+Exciting requirements:
+Automate price drop notification, users can customize the dashboard the way the want.
+
+
+9. Prototype can be helpful to:
+	i) Make abstract requirements easier to understand.
+	ii) Help customers explain what they actually want.
+	iii) Reveal missing or incorrect requirements.
+	iv) Reduce misunderstandings between customers and developers.
+	v) Allow users to give feedback early.
+
+10. FAST meeting: Collect customer needs and discuss them with stakeholders.
+Clarify: Remove misunderstandings and combine similar requirements.
+QFD: Classify requirements as normal, expected, or exciting.
+Prioritize: Decide which requirements are most important.
+Define: Convert customer needs into clear software requirements.
+Validate: Review the requirements with the customer and make changes if needed.
+Finalize: Document and approve the final requirements list.
+
