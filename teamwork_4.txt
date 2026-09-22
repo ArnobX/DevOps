@@ -1,5 +1,6 @@
 Arnob Bhattacharjee, e2401827
 Lizhe Huang, e2401837
+Nasrin Priya, e2404244
 
 
 
@@ -17,7 +18,7 @@ Lizhe Huang, e2401837
 
 3. Requirements analysis focuses on what the system should do rather than how it should be implemented because it helps the team to understand the customer's actual needs without being restricted by the terminologies. It also makes it easier to compare different technical solutions later.
 
-4. List of questions that could help a team to understand the customer's real problem:
+4. List of questions that an analyst should collect during problem recognition:
 	i) What problem the customer is currently experiencing?
 	ii) Who is affected by the problem?
 	iii) How often does the problem occurs?
@@ -33,8 +34,17 @@ Rules of a FAST meeting:
 	iii)Avoid interrupting others.
 	iv) Discuss disagreements instead of ignoring them.
 
-7. A mini specification can include: name of the function, purpose, inputs, outputs, error conditions, processing or required behavior, business rules etc.
+7. A mini specification is a short document that explains how a particular function or a process in a software system should work.
+A good mini specification can include:
+	i) The name of the function
+	ii) The purpose of the function
+	iii) The input it needs
+	iv) The output it produces
+	v) Error conditions
+	vi) processing or required behavior of the function
+	vii) Business rules.
 
+A mini specification can help in later development to understand how a function should works, it also helps the testers to make test cases to check if the function is working correctly.
 8. QFD divides requirements into normal, expected and exciting requirements.
 
 Normal requirements:
@@ -61,4 +71,3 @@ Prioritize: Decide which requirements are most important.
 Define: Convert customer needs into clear software requirements.
 Validate: Review the requirements with the customer and make changes if needed.
 Finalize: Document and approve the final requirements list.
-
